@@ -1,0 +1,10 @@
+*.bin
+*.elf
+*.map
+salida.txt
+.dep/
+*.o.d
+.settings/
+*.o
+*.lst
+*.hex
